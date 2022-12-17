@@ -23,16 +23,16 @@
 .category{
     display: flex;
     flex-direction: column;
-    background-color:gray;
+    background-color:rgb(207, 202, 202);
     padding: 2rem;
     gap: 1rem;
-    color: #fff;
+    color: rgb(22, 22, 22);
     justify-content:space-between;
 }
 .category>:nth-child(1){
     width: 2rem;
     height: 2rem;
-    fill:white;
+    fill:rgb(54, 52, 52);
 }
 .category>:nth-child(2){
     font-size: 1rem;

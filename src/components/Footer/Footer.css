@@ -34,7 +34,7 @@
     width:26rem;
     height:12rem;
     filter: blur(200px);
-    background:rgb(241, 154, 40);
+    background:rgb(233, 230, 227);
 
 }
 .blur-f-2{
@@ -43,13 +43,13 @@
     width:26rem;
     height:12rem;
     filter: blur(200px);
-    background:rgb(241, 154, 40);
+    background:rgb(247, 243, 239);
 
 }
 
 .footer-text>span{
     font-size:1rem;
-    color:#fff;
+    color:rgb(22, 21, 21);
     align-items:center;
     left:50%;
     
