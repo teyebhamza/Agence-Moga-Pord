@@ -12,7 +12,7 @@
     list-style:none;
     display:flex;
     gap: 2rem;
-    color: #fff;
+    color: rgb(29, 23, 23);
 }
 
 .header-menu>li:hover{

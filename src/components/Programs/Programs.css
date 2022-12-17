@@ -11,7 +11,7 @@
     font-weight: bold;
     font-size:1.5rem;
     justify-content:center;
-    color: #fff;
+    color: rgb(12, 12, 12);
     text-transform: uppercase;
     font-style: italic;
 }
@@ -23,16 +23,16 @@
 .category{
     display: flex;
     flex-direction: column;
-    background-color:gray;
+    background-color:rgb(177, 172, 172);
     padding: 2rem;
     gap: 1rem;
-    color: #fff;
+    color: rgb(10, 10, 10);
     justify-content:space-between;
 }
 .category>:nth-child(1){
     width: 2rem;
     height: 2rem;
-    fill:white;
+    fill:rgb(12, 11, 11);
 }
 .category>:nth-child(2){
     font-size: 1rem;

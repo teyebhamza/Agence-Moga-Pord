@@ -50,7 +50,7 @@
     gap:1.5rem;
     text-transform: uppercase;
     font-weight: bold;
-    color: white;
+    color: rgb(5, 4, 4);
     text-overflow: inherit;
 
 }
@@ -70,7 +70,7 @@
     flex-direction: column;
 }
 .figures>div>span:nth-of-type(1){
-    color:white;
+    color:rgb(7, 5, 5);
     font-size:2rem;
 
 }
@@ -85,12 +85,12 @@
 }
 
 .hero-buttons>:nth-child(1){
-    color:white;
+    color:rgb(20, 10, 10);
     background-color:var(--orange);
     width: 8rem;
 }
 .hero-buttons>:nth-child(2){
-    color:white;
+    color:rgb(15, 10, 10);
     background-color: transparent;
     width: 8rem;
     border: 1px solid var(--orange);

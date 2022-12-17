@@ -3,7 +3,7 @@ import './Testimonials.css'
 import { testimonialsData } from '../../data/testimonialsData';
 import leftArrows from '../../assets/leftArrow.png'
 import rightArrows from '../../assets/rightArrow.png'
-import {motion} from 'framer-motion'
+import { motion } from 'framer-motion'
 
 const Testimonials = () => {
     const transition = { type: 'spring', duration: 3}
