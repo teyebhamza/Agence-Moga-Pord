@@ -46,7 +46,11 @@
     color: var(--orange);
 }
 .right-r>div{
+<<<<<<< HEAD
     color:rgb(24, 22, 22);
+=======
+    color:rgb(7, 6, 6);
+>>>>>>> e8067d08b67c2a5f7e20dc8f0a297b65990f47da
     font-size: 1rem;
     font-weight: bold;
 }

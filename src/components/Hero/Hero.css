@@ -50,7 +50,11 @@
     gap:1.5rem;
     text-transform: uppercase;
     font-weight: bold;
+<<<<<<< HEAD
     color: rgb(17, 15, 15);
+=======
+    color: rgb(5, 4, 4);
+>>>>>>> e8067d08b67c2a5f7e20dc8f0a297b65990f47da
     text-overflow: inherit;
 
 }
@@ -70,7 +74,11 @@
     flex-direction: column;
 }
 .figures>div>span:nth-of-type(1){
+<<<<<<< HEAD
     color:rgb(22, 22, 22);
+=======
+    color:rgb(7, 5, 5);
+>>>>>>> e8067d08b67c2a5f7e20dc8f0a297b65990f47da
     font-size:2rem;
 
 }
@@ -85,12 +93,12 @@
 }
 
 .hero-buttons>:nth-child(1){
-    color:white;
+    color:rgb(20, 10, 10);
     background-color:var(--orange);
     width: 8rem;
 }
 .hero-buttons>:nth-child(2){
-    color:white;
+    color:rgb(15, 10, 10);
     background-color: transparent;
     width: 8rem;
     border: 1px solid var(--orange);

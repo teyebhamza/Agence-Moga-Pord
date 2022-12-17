@@ -6,7 +6,11 @@
   --darkGrey: #e6ecf3;
   --caloryCard: #202020;
   --planCard: linear-gradient(210.41deg, #fa5042 1.14%, #ffa739 100.75%);
+<<<<<<< HEAD
   --appColor:  #f2f5f8;
+=======
+  --appColor:  #edeff3;
+>>>>>>> e8067d08b67c2a5f7e20dc8f0a297b65990f47da
 }
 
 .App {

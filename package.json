@@ -8,6 +8,11 @@
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+<<<<<<< HEAD
+=======
+    "emailjs": "^4.0.1",
+    "emailjs-com": "^3.2.0",
+>>>>>>> e8067d08b67c2a5f7e20dc8f0a297b65990f47da
     "framer-motion": "^7.10.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
