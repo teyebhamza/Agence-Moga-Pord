@@ -24,7 +24,7 @@
     width: fit-content;
     padding: 20px 13px;
     text-transform: uppercase;
-    color: rgb(15, 14, 14);
+    color: rgb(22, 20, 20);
     position: relative;
     display: flex;
     align-items: center;
@@ -50,11 +50,7 @@
     gap:1.5rem;
     text-transform: uppercase;
     font-weight: bold;
-<<<<<<< HEAD
-    color: rgb(17, 15, 15);
-=======
-    color: rgb(5, 4, 4);
->>>>>>> e8067d08b67c2a5f7e20dc8f0a297b65990f47da
+    color: rgb(17, 16, 16);
     text-overflow: inherit;
 
 }
@@ -74,11 +70,7 @@
     flex-direction: column;
 }
 .figures>div>span:nth-of-type(1){
-<<<<<<< HEAD
-    color:rgb(22, 22, 22);
-=======
-    color:rgb(7, 5, 5);
->>>>>>> e8067d08b67c2a5f7e20dc8f0a297b65990f47da
+    color:rgb(10, 9, 9);
     font-size:2rem;
 
 }
@@ -93,12 +85,12 @@
 }
 
 .hero-buttons>:nth-child(1){
-    color:rgb(20, 10, 10);
+    color:rgb(10, 9, 9);
     background-color:var(--orange);
     width: 8rem;
 }
 .hero-buttons>:nth-child(2){
-    color:rgb(15, 10, 10);
+    color:rgb(17, 12, 12);
     background-color: transparent;
     width: 8rem;
     border: 1px solid var(--orange);
@@ -131,4 +123,56 @@
 .btn:hover{
     background:var(--orange);
 
+}
+.hero-blur{
+    width:22rem;
+    height:30rem;
+    left:0;
+}
+@media screen and (max-width: 768px){
+    
+    .hero-blur{
+        width:16rem;
+       
+    }
+    .the-best-ad{
+        margin-top:0;
+        font-size: small;
+        align-self: center;
+        transform:scale(0.8);
+    }
+    .hero-text{
+        font-size: xx-large;
+        align-items:center;
+        justify-content:center;
+
+    }
+
+    .hero-text > div:nth-of-type(3){
+        font-size:small;
+        font-weight: 200;
+        letter-spacing: 1px;
+        text-align: center;
+    }
+    .hero-buttons{
+        justify-content:center;
+    }
+    .figures{
+        justify-content:center;
+    }
+    .figures>div>span:nth-child(1){
+        font-size:large;
+        
+
+
+    }
+    .figures>div>span:nth-child(2){
+        font-size:small;
+        
+    }
+    .right-h>button{
+        display:none;
+    }
+    
+   
 }

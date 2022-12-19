@@ -10,7 +10,7 @@
     padding:1rem 2rem;
     display: flex;
     flex-direction: column;
-    gap:4rem;
+    gap:2rem;
     align-items:center;
     justify-content:center;
     height: 20rem;
@@ -41,7 +41,7 @@
     bottom:0;
     left:15%;
     width:26rem;
-    height:12rem;
+    height:10rem;
     filter: blur(200px);
     background:rgb(247, 243, 239);
 
@@ -49,11 +49,7 @@
 
 .footer-text>span{
     font-size:1rem;
-<<<<<<< HEAD
     color:rgb(22, 21, 21);
-=======
-    color:rgb(17, 13, 13);
->>>>>>> e8067d08b67c2a5f7e20dc8f0a297b65990f47da
     align-items:center;
     left:50%;
     

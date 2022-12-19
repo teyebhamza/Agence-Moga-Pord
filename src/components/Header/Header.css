@@ -12,11 +12,7 @@
     list-style:none;
     display:flex;
     gap: 2rem;
-<<<<<<< HEAD
-    color: rgb(20, 19, 19);
-=======
-    color: rgb(29, 23, 23);
->>>>>>> e8067d08b67c2a5f7e20dc8f0a297b65990f47da
+    color: #fff;
 }
 
 .header-menu>li:hover{
