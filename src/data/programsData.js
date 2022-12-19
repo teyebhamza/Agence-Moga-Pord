@@ -11,27 +11,27 @@ export const programsData = [
     image: <img src={image1}  alt="" />,
     heading: "Web Devolpement :   " ,
     details:
-      "In this program, you are trained to improve your strength through many exercises.",
+      " We turn the best ideas into excellent products.",
   },
   {
     image: <img src={image2}  alt="" />,
     heading: "Digital Marketing :  ",
 
     details:
-      "In this program, you are trained to do sequential moves in range of 20 until 30 minutes.",
+      " We help you reach your customers online",
   },
   {
     image: <img src={image3}  alt="" />,
     heading: "Graphique Designer : ",
 
     details:
-      "This program is suitable for you who wants to get rid of your fat and lose their weight.",
+      " Looking for a creative designer to conceive and develop engaging integrated concepts and innovative visual experiences. Hire the best at MP",
   },
   {
     image: <img src={image4}  alt="" />,
     heading: "Shooting Product : ",
     
     details:
-      "This programs is designed for those who exercises only for their body fitness not body building.",
+      " Our team is here to create unique content that looks like your business and stands out from your competitors using content preparation tools",
   },
 ];
