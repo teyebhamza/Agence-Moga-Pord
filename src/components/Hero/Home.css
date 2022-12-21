@@ -68,13 +68,11 @@
     .hero .left {
       width: 100%;
       margin-left: 15px;
-      bottom:70px;
     }
     .hero .right_img img {
-      justify-content: CENTER;
-      right: 10%;
-      width: 420px;
-      height:340px
+  
+      width: 360px;
+      height:280px;
     }
     .hero .f_flex {
       flex-direction: column;
