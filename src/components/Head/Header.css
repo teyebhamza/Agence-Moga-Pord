@@ -104,5 +104,6 @@ header {
     .logo>img{
       width:5rem;
       height:3rem;
+      bottom:10px;
     }
   }
