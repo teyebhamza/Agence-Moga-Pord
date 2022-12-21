@@ -9,7 +9,7 @@
   }
   .Contact .details h1 {
     margin: 20px 0 20px 0;
-    font-size: 35px;
+    font-size: 25px;
     color: rgb(240, 151, 43);
   }
   
@@ -43,8 +43,8 @@
     margin-left: 10px;
   }
 .img> img{
-    width: 14rem;
-    height: 5rem;
+    width: 9rem;
+    height: 3rem;
   }
   @media (max-width: 768px) {
     .Contact .d_flex {
@@ -53,6 +53,6 @@
     .Contact .left,
     .Contact .right {
       width: 100%;
-      margin-top: 50px;
+      margin-top: 40px;
     }
   }

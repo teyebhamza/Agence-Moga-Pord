@@ -38,7 +38,6 @@ const Contact = () => {
         <div className='container top'>
           <div className='heading text-center'>
             <h4>CONTACT</h4>
-            <h1>Contact With us</h1>
           </div>
 
           <div className='content d_flex'>
