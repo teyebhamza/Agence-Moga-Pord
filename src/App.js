@@ -1,22 +1,27 @@
-import './App.css';
-import Hero from './components/Hero/Hero';
-import Programs from './components/Programs/Programs'
-import Reasons from './components/Reasons/Reasons'
-import Testimonials from './components/Testimonials/Testimonials'
-import Join from './components/Join/Join'
-import Footer from './components/Footer/Footer'
-function App() {
+import React from "react"
+import Header from "./components/Head/Header"
+import Features from "./components/Features/Features" 
+import Home from "./components/Hero/Home"
+import Portfolio from "./components/Portfolio/Portfolio"
+import Resume from "./components/Resume/Resume"
+import Testimonial from "./components/Testimonial/Testimonial"
+import Contact from "./components/Contact/Contact"
+
+import "./App.css"
+
+const App = () => {
   return (
-    <div className="App">
-      <Hero/>
-      <Programs />
-      <Reasons />
-      <Testimonials />
-      <Join />
-      <Footer />
+    <>
+      <Header />
+      <Home />
+      <Features />
+      <Portfolio />
+      <Resume />
+      <Testimonial />
+      <Contact />
       
-    </div>
+    </>
   )
 }
 
-export default App;
+export default App
