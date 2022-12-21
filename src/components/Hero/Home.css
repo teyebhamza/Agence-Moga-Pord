@@ -74,12 +74,16 @@
     .hero .right,
     .hero .left {
       width: 100%;
-      margin-left: 20px;
+      margin-left: 15px;
+      bottom:70px;
     }
-  
+    .right .right_img> img{
+      bottom: 200px;
+    }
     .hero .f_flex {
       flex-direction: column;
       flex-direction: column-reverse;
+      z-index:99;
     }
     .hero .right_img {
       width: 100%;

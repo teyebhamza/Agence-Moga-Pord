@@ -101,4 +101,8 @@ header {
     .header.active {
       height: 10vh;
     }
+    .logo>img{
+      width:3rem;
+      height:2rem;
+    }
   }
