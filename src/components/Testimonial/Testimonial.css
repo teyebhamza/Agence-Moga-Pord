@@ -46,6 +46,10 @@
     display: flex;
     overflow: hidden;
   }
+  .Testimonial .left img{
+    height:150px;
+    width: 160px;
+  }
   article {
     position: absolute;
     top: 0;

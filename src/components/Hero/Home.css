@@ -60,14 +60,14 @@
     
     top: 25rem;
     right: 10%;
-    width: 510px;
+    width: 540px;
     height:400px
   }
   @media (max-width: 768px) {
     .hero .right,
     .hero .left {
       width: 100%;
-      margin-left: 10px;
+      margin-left: 5px;
     }
     .hero .right_img img {
   

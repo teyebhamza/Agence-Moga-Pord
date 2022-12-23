@@ -1,0 +1,24 @@
+.Footer-container{
+    position:relative;
+}
+
+.footer{
+    
+    padding:1rem 2rem;
+    display: flex;
+    flex-direction: column;
+    gap:2rem;
+    align-items:center;
+    justify-content:center;
+    height: 20rem;
+}
+.footer_btn{
+    justify-content: space-between;
+}
+.btn_shadow{
+    margin-bottom: 3rem;
+}
+
+.logo-f>img{
+    width:10rem;
+}

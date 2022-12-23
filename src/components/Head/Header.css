@@ -51,7 +51,7 @@ header {
     transition: 0.5s;
   }
   @media (max-width: 768px) {
-    header ul {
+    .header ul {
       padding-top: 30px;
     }
     .nav-links-mobile {
@@ -67,13 +67,13 @@ header {
       background-color: white;
       z-index: 888;
     }
-    header ul li {
+    .header ul li {
       width: 100%;
       transition: all 0.5s ease-in-out;
       text-transform: uppercase;
       line-height: 70px;
     }
-    header .link {
+    .header .link {
       display: none;
     }
     .close,

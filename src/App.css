@@ -49,6 +49,7 @@ button {
   cursor: pointer;
   color: #000;
   transition: 0.5s;
+  margin: 13PX;
 }
 .btn_shadow {
   background: linear-gradient(145deg, #e2e8ec, #ffffff);

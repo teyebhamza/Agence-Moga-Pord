@@ -30,28 +30,17 @@ const Home = () => {
                 <h4>Our Social Media</h4>
                 <div className='button'>
                   <button className='btn_shadow'>
-                    <i class='fab fa-facebook-f'></i>
+                  <a href="https://www.facebook.com/profile.php?id=100083637300901"> <i class='fab fa-facebook-f'></i></a>
                   </button>
                   <button className='btn_shadow'>
-                    <i class='fab fa-instagram'></i>
+                  <a href="https://www.instagram.com/mogaprod.agency/"><i class='fab fa-instagram'></i></a>
                   </button>
                   <button className='btn_shadow'>
-                    <i class='fab fa-linkedin-in'></i>
+                  <a href="https://www.instagram.com/mogaprod.agency/">  <i class='fab fa-linkedin-in' ></i></a>
                   </button>
                 </div>
               </div>
-              <div className='col_1'>
-                <h4>BEST SKILL ON</h4>
-                <button className='btn_shadow'>
-                  <img src={skill1} alt='' />
-                </button>
-                <button className='btn_shadow'>
-                  <img src={skill2} alt='' />
-                </button>
-                <button className='btn_shadow'>
-                  <img src={skill3} alt='' />
-                </button>
-              </div>
+              
             </div>
           </div>
           <div className='right'>
