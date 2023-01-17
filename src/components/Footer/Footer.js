@@ -10,10 +10,10 @@ const Footer = () => {
         <div className='conatiner text-center top'>
         <div className='footer'>
               <div className='footer_link'>
-                <h4>Our Social Media</h4>
+                
                 <div className='button'>
                   <button className='btn_shadow'>
-                   <a href="https://www.facebook.com/profile.php?id=100083637300901"> <i class='fab fa-facebook-f'></i></a>
+                  <a href="https://www.facebook.com/profile.php?id=100083637300901"> <i class='fab fa-facebook-f'></i></a>
                   </button>
                   <button className='btn_shadow'>
                   <a href="https://www.instagram.com/mogaprod.agency/"><i class='fab fa-instagram'></i></a>

@@ -20,7 +20,7 @@ const Slide = ({ id, image, design, name, offcer, post, date, desc, valueIndex, 
           </div>
           <div className='details mtop'>
             <span className='primary_color'>{design}</span>
-            <h2>{name}</h2>
+      
             <label>{offcer}</label>
           </div>
         </div>
@@ -33,6 +33,7 @@ const Slide = ({ id, image, design, name, offcer, post, date, desc, valueIndex, 
           </div>
 
           <div className='content box_shodow mtop'>
+            <h2>{name}</h2>
             <h1>{post}</h1>
             <h3>{date}</h3>
             <p>{desc}</p>

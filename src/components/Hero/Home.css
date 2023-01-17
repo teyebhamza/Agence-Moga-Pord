@@ -58,11 +58,13 @@
   
   .hero .right_img img {
     
-    top: 25rem;
+    top: 20rem;
     right: 10%;
-    width: 540px;
+    width: 600px;
     height:400px
   }
+ 
+  
   @media (max-width: 768px) {
     .hero .right,
     .hero .left {
@@ -73,11 +75,16 @@
   
       width: 360px;
       height:280px;
+     
     }
     .hero .f_flex {
       flex-direction: column;
       flex-direction: column-reverse;
       z-index:99;
     }
+    .hero h2{
+      font-size:33px;
+    }
     
   }
+  

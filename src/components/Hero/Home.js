@@ -14,16 +14,16 @@ const Home = () => {
           <div className='left top'>
             <h3>WELCOME </h3>
             <h1>
-              Hi, With Mogaprod <span> You Will Find</span>
+              Hi, With Mogaprod <span> You Will Find </span>
             </h1>
             <h2>
-              a
+              A
               <span>
                 <Typewriter words={[" Digital Marketing.", " Web development.", " Shooting Products.", " SEO.", " Graphic Design ."]} loop cursor cursorStyle='|' typeSpeed={30} deleteSpeed={50} delaySpeed={1000} />
               </span>
             </h2>
 
-            <p>Marketing diagnosis, strategic planning or tailor-made tactical action plan: our strategists guide and advise you. We also offer support programs and coaching.</p>
+            <p>We carry out marketing diagnostics, strategic planning or a tailor-made tactical action plan: our strategists guide and advise you. We also offer support and training programmes.</p>
 
             <div className='hero_btn d_flex'>
               <div className='col_1'>

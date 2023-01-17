@@ -1,6 +1,6 @@
-import image1 from '../pic/cleano.png'
+import image1 from '../pic/hadanti.jpg'
 import image2 from '../pic/hayla.png'
-import image3 from '../pic/pic1.jpg'
+import image3 from '../pic/cleano.png'
 import image4 from '../pic/nefertiti.jpg'
 
   const TestimonialApi = [
@@ -8,31 +8,31 @@ import image4 from '../pic/nefertiti.jpg'
       id: 1,
       image: image1,
       
-      name: "cleno",
+      name: "Hadanti",
       
-      post: "agence marketing",
+      post: "Website application",
       
-      desc: "Marcent Of Vanice and treatment. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante. Ut tincidunt est ac dolor aliquam sodales phasellus smauris",
+      desc: "Social Media Marketing",
     },
     {
       id: 2,
       image: image2,
      
-      name: "Cleanobox",
+      name: "Hayla-tn",
      
-      post: "Android App Development",
+      post: "Oline Store",
       
-      desc: "When managment is so important. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante. Ut tincidunt est ac dolor aliquam sodales phasellus smauris.",
+      desc: "Creation of online store, graphic design and management of social media marketing.",
     },
     {
       id: 3,
       image: image3,
      
-      name: "Hayla-tn",
+      name: "Cleanobox",
       
       post: "E-COMMERCE Website",
       
-      desc: "Maecenas finibus nec sem ut imperdiet. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante. Ut tincidunt est ac dolor aliquam sodales phasellus smauris.",
+      desc: "Online store creation and social media marketing management.",
     },
     {
       id: 4,
@@ -42,7 +42,7 @@ import image4 from '../pic/nefertiti.jpg'
       
       post: "Cosmetics Company",
       
-      desc: "Important fact to nec sem ut imperdiet. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante. Ut tincidunt est ac dolor aliquam sodales phasellus smauris.",
+      desc: "Graphique desgin and social media marketing.",
     },
     
   ]
